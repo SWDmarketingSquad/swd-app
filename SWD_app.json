@@ -32,6 +32,27 @@
 	}, {
 		"countryId": 1,
 		"categoryId": 3,
+		"title": "Quik-Shield 104",
+		"subtitle": "Open-Cell Insulation",
+		"documents": [{
+			"name": "Brochure",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/07/QS104-Sell-Sheet-Digital.pdf"
+		}, {
+			"name": "SDS (Safety Data Sheet)",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/07/QS-104-B.pdf"
+		}, {
+			"name": "Product Data",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/07/TDS-QS-104-Digital.pdf"
+		},  {
+			"name": "Processing Packet",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/07/QS104-Processing-Packet-Digital.pdf"
+		}, {
+			"name": "Processing Packet Spanish",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/07/QS104-Processing-Packet-Spanish-Digital.pdf"
+		}]
+	}, {
+		"countryId": 1,
+		"categoryId": 3,
 		"title": "Quik-Shield 108",
 		"subtitle": "Open-Cell Insulation",
 		"documents": [{
