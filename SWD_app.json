@@ -446,18 +446,6 @@
 	}, {
 		"countryId": 1,
 		"categoryId": 2,
-		"title": "Quik-Shield 2105",
-		"subtitle": "Roofing Primers",
-		"documents": [{
-			"name": "SDS (Safety Data Sheet)",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-2105-B.pdf"
-		}, {
-			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/PDS-QS2105-Digital.pdf"
-		}]
-	}, {
-		"countryId": 1,
-		"categoryId": 2,
 		"title": "Quik-Shield 1881",
 		"subtitle": "Roofing Patchings & Caulks",
 		"documents": [{
