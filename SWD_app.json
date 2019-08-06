@@ -3,7 +3,7 @@
 		"countryId": 1,
 		"categoryId": 3,
 		"title": "Quik-Shield 108YM",
-		"subtitle": "Open-Cell Insulation",
+		"subtitle": "Ultra-Low Density Open-Cell Spray Foam",
 		"documents": [{
 			"name": "Brochure",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS108YM-Sell-Sheet-Digital.pdf"
@@ -33,7 +33,7 @@
 		"countryId": 1,
 		"categoryId": 3,
 		"title": "Quik-Shield 104",
-		"subtitle": "Open-Cell Insulation",
+		"subtitle": "No Mix Open-Cell Spray Foam",
 		"documents": [{
 			"name": "Brochure",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/07/QS104-Sell-Sheet-Digital.pdf"
@@ -54,7 +54,7 @@
 		"countryId": 1,
 		"categoryId": 3,
 		"title": "Quik-Shield 108",
-		"subtitle": "Open-Cell Insulation",
+		"subtitle": "Ultra-Low Density Open-Cell Spray Foam",
 		"documents": [{
 			"name": "Brochure",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS108-Sell-Sheet-Digital.pdf"
@@ -84,7 +84,7 @@
 		"countryId": 1,
 		"categoryId": 3,
 		"title": "Quik-Shield 106",
-		"subtitle": "Open-Cell Insulation",
+		"subtitle": "Open-Cell Spray Foam",
 		"documents": [{
 			"name": "Brochure",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS106-Sell-Sheet-Digital.pdf"
@@ -114,7 +114,7 @@
 		"countryId": 1,
 		"categoryId": 3,
 		"title": "Quik-Shield 112XC",
-		"subtitle": "Closed-Cell Insulation",
+		"subtitle": "Cold Weather Clsoed-Cell Spray Foam",
 		"documents": [{
 			"name": "Brochure",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS112XC-Sell-Sheet-Digital.pdf"
@@ -147,7 +147,7 @@
 		"countryId": 1,
 		"categoryId": 3,
 		"title": "Quik-Shield 112",
-		"subtitle": "Closed-Cell Insulation",
+		"subtitle": "Closed-Cell Spray Foam",
 		"documents": [{
 			"name": "Brochure",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS112-Sell-Sheet-Digital.pdf"
@@ -177,7 +177,7 @@
 		"countryId": 1,
 		"categoryId": 3,
 		"title": "Quik-Shield 118",
-		"subtitle": "Closed-Cell Insulation",
+		"subtitle": "Ultra-Efficient Closed-Cell Spray Foam",
 		"documents": [{
 			"name": "Brochure",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS118-Sell-Sheet-Digital-1.pdf"
@@ -207,7 +207,7 @@
 		"countryId": 1,
 		"categoryId": 3,
 		"title": "Quik-Shield 180",
-		"subtitle": "Closed-Cell Insulation",
+		"subtitle": "Low GWP Agricultural Spray Foam",
 		"documents": [{
 			"name": "Brochure",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/05/QS180-Sell-Sheet-Digital.pdf"
@@ -222,7 +222,7 @@
 		"countryId": 1,
 		"categoryId": 3,
 		"title": "Quik-Shield 450",
-		"subtitle": "Closed-Cell Insulation",
+		"subtitle": "Class 1 Pour Foam",
 		"documents": [{
 			"name": "SDS (Safety Data Sheet)",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-450-B.pdf"
@@ -234,7 +234,7 @@
 		"countryId": 1,
 		"categoryId": 3,
 		"title": "Quik-Shield 232",
-		"subtitle": "Closed-Cell Insulation",
+		"subtitle": "Slab-jacking Foam",
 		"documents": [{
 			"name": "Product Data",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/PDS-QS232.pdf"
@@ -243,7 +243,7 @@
 		"countryId": 1,
 		"categoryId": 3,
 		"title": "Quik-Shield 252",
-		"subtitle": "Closed-Cell Insulation",
+		"subtitle": "High Performance Tank Foam",
 		"documents": [{
 			"name": "SDS (Safety Data Sheet)",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-252-B.pdf"
@@ -300,7 +300,7 @@
 		"countryId": 1,
 		"categoryId": 2,
 		"title": "Quik-Shield 1830",
-		"subtitle": "Roofing Coatings",
+		"subtitle": "Emulsion Roof Surfacing",
 		"documents": [{
 			"name": "SDS (Safety Data Sheet)",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-1830.pdf"
@@ -312,7 +312,7 @@
 		"countryId": 1,
 		"categoryId": 2,
 		"title": "Quik-Shield 1929F",
-		"subtitle": "Roofing Coatings",
+		"subtitle": "Flame Retardant Acrylic Coating",
 		"documents": [{
 			"name": "SDS (Safety Data Sheet)",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-1929.pdf"
@@ -324,7 +324,7 @@
 		"countryId": 1,
 		"categoryId": 2,
 		"title": "Quik-Shield 1929R",
-		"subtitle": "Roofing Coatings",
+		"subtitle": "Acrylic Coating",
 		"documents": [{
 			"name": "SDS (Safety Data Sheet)",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-1929.pdf"
@@ -336,7 +336,7 @@
 		"countryId": 1,
 		"categoryId": 2,
 		"title": "Quik-Shield 2020",
-		"subtitle": "Roofing Coatings",
+		"subtitle": "Cementitious Roof Coating",
 		"documents": [{
 			"name": "SDS (Safety Data Sheet) Granules",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-2020-G.pdf"
@@ -354,7 +354,7 @@
 		"countryId": 1,
 		"categoryId": 2,
 		"title": "Quik-Shield 1939",
-		"subtitle": "Roofing Coatings",
+		"subtitle": "High-Performance Acrylic Coating",
 		"documents": [{
 			"name": "SDS (Safety Data Sheet)",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-1939.pdf"
@@ -366,7 +366,7 @@
 		"countryId": 1,
 		"categoryId": 2,
 		"title": "Quik-Shield 2110",
-		"subtitle": "Roofing Coatings",
+		"subtitle": "Silicone Roofing Coating",
 		"documents": [{
 			"name": "SDS (Safety Data Sheet)",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-2110.pdf"
@@ -378,7 +378,7 @@
 		"countryId": 1,
 		"categoryId": 2,
 		"title": "Quik-Shield 2120",
-		"subtitle": "Roofing Coatings",
+		"subtitle": "High Solids Silicone Roof Coating",
 		"documents": [{
 			"name": "SDS (Safety Data Sheet)",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-2120.pdf"
@@ -390,7 +390,7 @@
 		"countryId": 1,
 		"categoryId": 2,
 		"title": "Quik-Shield 1940",
-		"subtitle": "Roofing Coatings",
+		"subtitle": "Bleed Blocking Acrylic Coating",
 		"documents": [{
 			"name": "SDS (Safety Data Sheet)",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-1940.pdf"
@@ -402,7 +402,7 @@
 		"countryId": 1,
 		"categoryId": 2,
 		"title": "Quik-Shield 1000",
-		"subtitle": "Roofing Primers",
+		"subtitle": "Roofing Primer",
 		"documents": [{
 			"name": "SDS (Safety Data Sheet)",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-1000.pdf"
@@ -414,7 +414,7 @@
 		"countryId": 1,
 		"categoryId": 2,
 		"title": "Quik-Shield 1020",
-		"subtitle": "Roofing Primers",
+		"subtitle": "Acrylic Primer",
 		"documents": [{
 			"name": "SDS (Safety Data Sheet)",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-1020.pdf"
@@ -426,7 +426,7 @@
 		"countryId": 1,
 		"categoryId": 2,
 		"title": "Quik-Shield 2000",
-		"subtitle": "Roofing Primers",
+		"subtitle": "Low VOC Primer",
 		"documents": [{
 			"name": "SDS (Safety Data Sheet)",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-2000.pdf"
@@ -438,7 +438,7 @@
 		"countryId": 1,
 		"categoryId": 2,
 		"title": "Quik-Shield 2100",
-		"subtitle": "Roofing Primers",
+		"subtitle": "Etching Wash Primer",
 		"documents": [{
 			"name": "SDS (Safety Data Sheet)",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-2100.pdf"
@@ -450,7 +450,7 @@
 		"countryId": 1,
 		"categoryId": 2,
 		"title": "Quik-Shield 1881",
-		"subtitle": "Roofing Patchings & Caulks",
+		"subtitle": "Acrylic Patching Compound",
 		"documents": [{
 			"name": "SDS (Safety Data Sheet)",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-1881.pdf"
@@ -486,7 +486,7 @@
 		"countryId": 1,
 		"categoryId": 1,
 		"title": "Quik-Shield 212",
-		"subtitle": "Pipe Jacketing Foam",
+		"subtitle": "Pipe Jacketing Insulation",
 		"documents": [{
 			"name": "SDS (Safety Data Sheet)",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-212-B.pdf"
