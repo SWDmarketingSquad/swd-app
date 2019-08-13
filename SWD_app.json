@@ -296,18 +296,6 @@
 			"name": "Product Data",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/07/TDS-QS-125-3-Digital.pdf"
 		}]
-	},{
-		"countryId": 1,
-		"categoryId": 2,
-		"title": "Quik-Shield 1830",
-		"subtitle": "Emulsion Roof Surfacing",
-		"documents": [{
-			"name": "SDS (Safety Data Sheet)",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-1830.pdf"
-		}, {
-			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/TDS-QS-1830-Digital.pdf"
-		}]
 	}, {
 		"countryId": 1,
 		"categoryId": 2,
@@ -335,22 +323,16 @@
 	}, {
 		"countryId": 1,
 		"categoryId": 2,
-		"title": "Quik-Shield 2020",
-		"subtitle": "Cementitious Roof Coating",
+		"title": "Quik-Shield 1929HT",
+		"subtitle": "Acrylic Coating",
 		"documents": [{
-			"name": "SDS (Safety Data Sheet) Granules",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-2020-G.pdf"
+			"name": "SDS (Safety Data Sheet)",
+			"url": ""
 		}, {
-			"name": "SDS (Safety Data Sheet) Powder",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-2020-P.pdf"
-		}, {
-			"name": "SDS (Safety Data Sheet) Resin",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-2020-R.pdf"
-		},{
 			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/PDS-QS2020.pdf"
+			"url": ""
 		}]
-	}, {
+	},  {
 		"countryId": 1,
 		"categoryId": 2,
 		"title": "Quik-Shield 1939",
@@ -361,6 +343,30 @@
 		}, {
 			"name": "Product Data",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/TDS-QS-1939-Digital.pdf"
+		}]
+	}, {
+		"countryId": 1,
+		"categoryId": 2,
+		"title": "Quik-Shield 1940",
+		"subtitle": "Bleed Blocking Acrylic Coating",
+		"documents": [{
+			"name": "SDS (Safety Data Sheet)",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-1940.pdf"
+		}, {
+			"name": "Product Data",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/06/TDS-QS-1940-Digital.pdf"
+		}]
+	}, {
+		"countryId": 1,
+		"categoryId": 2,
+		"title": "Quik-Shield 1881",
+		"subtitle": "Acrylic Patching Compound",
+		"documents": [{
+			"name": "SDS (Safety Data Sheet)",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/08/QS-1881.pdf"
+		}, {
+			"name": "Product Data",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/08/TDS-QS-1881-Digital.pdf"
 		}]
 	}, {
 		"countryId": 1,
@@ -389,14 +395,38 @@
 	}, {
 		"countryId": 1,
 		"categoryId": 2,
-		"title": "Quik-Shield 1940",
-		"subtitle": "Bleed Blocking Acrylic Coating",
+		"title": "Quik-Shield 1891",
+		"subtitle": "Silicone Patching Compound",
 		"documents": [{
-			"name": "SDS (Safety Data Sheet)",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-1940.pdf"
-		}, {
 			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/TDS-QS-1940-Digital.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2019/08/TDS-QS-1891-Digital.pdf"
+		}]
+	}, {
+		"countryId": 1,
+		"categoryId": 2,
+		"title": "Quik-Shield 2122",
+		"subtitle": "High Solids Silicone Walkway Coating",
+		"documents": [{
+			"name": "Product Data",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/08/TDS-QS2122-Digital.pdf"
+		}]
+	}, {
+		"countryId": 1,
+		"categoryId": 2,
+		"title": "Quik-Shield 2020",
+		"subtitle": "Cementitious Roof Coating",
+		"documents": [{
+			"name": "SDS (Safety Data Sheet) Granules",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-2020-G.pdf"
+		}, {
+			"name": "SDS (Safety Data Sheet) Powder",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-2020-P.pdf"
+		}, {
+			"name": "SDS (Safety Data Sheet) Resin",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-2020-R.pdf"
+		},{
+			"name": "Product Data",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/06/PDS-QS2020.pdf"
 		}]
 	}, {
 		"countryId": 1,
@@ -437,6 +467,30 @@
 	}, {
 		"countryId": 1,
 		"categoryId": 2,
+		"title": "Quik-Shield 1030",
+		"subtitle": "Rust Inhibiting Primer",
+		"documents": [{
+			"name": "SDS (Safety Data Sheet)",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/08/QS-1030.pdf"
+		}, {
+			"name": "Product Data",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/08/TDS-QS-1030-Digital.pdf"
+		}]
+	}, {
+		"countryId": 1,
+		"categoryId": 2,
+		"title": "Quik-Shield 1040",
+		"subtitle": "Single-Ply Primer",
+		"documents": [{
+			"name": "SDS (Safety Data Sheet)",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/08/QS-1040.pdf"
+		}, {
+			"name": "Product Data",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/08/TDS-QS1040-Digital.pdf"
+		}]
+	}, {
+		"countryId": 1,
+		"categoryId": 2,
 		"title": "Quik-Shield 2100",
 		"subtitle": "Etching Wash Primer",
 		"documents": [{
@@ -445,18 +499,6 @@
 		}, {
 			"name": "Product Data",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/PDS-QS2100.pdf"
-		}]
-	}, {
-		"countryId": 1,
-		"categoryId": 2,
-		"title": "Quik-Shield 1881",
-		"subtitle": "Acrylic Patching Compound",
-		"documents": [{
-			"name": "SDS (Safety Data Sheet)",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-1881.pdf"
-		}, {
-			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/TDS-QS-1881-Digital.pdf"
 		}]
 	}, {
 		"countryId": 1,
