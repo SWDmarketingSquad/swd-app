@@ -113,6 +113,21 @@
 	}, {
 		"countryId": 1,
 		"categoryId": 3,
+		"title": "Quik-Shield 100",
+		"subtitle": "Low Heat Appendix X Open-Cell Spray Foam",
+		"documents": [{
+			"name": "Brochure",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/10/QS100-Brochure.pdf"
+		}, {
+			"name": "SDS (Safety Data Sheet)",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/10/SWD-SDS-PMG-100-R00-Quik-Shield-100.pdf"
+	        }, {
+			"name": "Product Data",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/10/TDS-QS-100.pdf"
+		}]
+	},{
+		"countryId": 1,
+		"categoryId": 3,
 		"title": "Quik-Shield 112XC2",
 		"subtitle": "Commercial Grade Spray Foam Insulation",
 		"documents": [{
