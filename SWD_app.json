@@ -113,6 +113,15 @@
 	}, {
 		"countryId": 1,
 		"categoryId": 3,
+		"title": "Quik-Shield 112XC2",
+		"subtitle": "Commercial Grade Spray Foam Insulation",
+		"documents": [{
+			"name": "Product Data",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/10/TDS-QS-112XC2.pdf"
+		}]
+	}, {
+		"countryId": 1,
+		"categoryId": 3,
 		"title": "Quik-Shield 112XC",
 		"subtitle": "Cold Weather Closed-Cell Spray Foam",
 		"documents": [{
@@ -169,6 +178,18 @@
 		}, {
 			"name": "VOC",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-112-GREENGUARD-Gold-Certification-1.pdf"
+		}]
+	},  {
+		"countryId": 1,
+		"categoryId": 3,
+		"title": "Quik-Shield 118XC",
+		"subtitle": "Ultra-Efficient Cold-Weather Foam",
+		"documents": [{
+			"name": "Brochure",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/10/QS118XC-Brochure.pdf"
+		}, {
+			"name": "Product Data",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/10/TDS-QS-118XC.pdf"
 		}]
 	}, {
 		"countryId": 1,
