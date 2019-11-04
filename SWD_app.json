@@ -18,10 +18,10 @@
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/TDS-QS-108YM-Spanish-Digital.pdf"
 		}, {
 			"name": "Processing Packet",
-			"url": "http://swdurethane.com/wp-content/uploads/2018/01/QS108YM-Processing-Packet-Print.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2019/11/QS108YM-Processing-Packet.pdf"
 		}, {
 			"name": "Processing Packet Spanish",
-			"url": "http://swdurethane.com/wp-content/uploads/2018/01/QS108YM-Processing-Packet-Spanish-Print.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2019/11/QS108YM-Processing-Packet-Spanish.pdf"
 		}, {
 			"name": "Code Evaluation Report",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/03/SWD-Urethane-QS-108-CCRR1051.pdf"
@@ -48,7 +48,7 @@
 			"url": "http://swdurethane.com/wp-content/uploads/2019/07/QS104-Processing-Packet-Digital-1.pdf"
 		}, {
 			"name": "Processing Packet Spanish",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/07/QS104-Processing-Packet-Spanish-Digital-1.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2019/11/QS104-Processing-Packet-Spanish.pdf"
 		}]
 	}, {
 		"countryId": 1,
@@ -69,10 +69,10 @@
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/TDS-QS-108-Spanish-Digital.pdf"
 		}, {
 			"name": "Processing Packet",
-			"url": "http://swdurethane.com/wp-content/uploads/2017/10/QS108-Processing-Packet-digital.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2019/11/QS108-Processing-Packet.pdf"
 		}, {
 			"name": "Processing Packet Spanish",
-			"url": "http://swdurethane.com/wp-content/uploads/2017/10/QS108-Processing-Packet-Spanish-digital.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2019/11/QS108-Processing-Packet-Spanish.pdf"
 		}, {
 			"name": "Code Evaluation Report",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/03/SWD-Urethane-QS-108-CCRR1051.pdf"
@@ -99,10 +99,10 @@
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/TDS-QS-106-Spanish-Digital.pdf"
 		}, {
 			"name": "Processing Packet",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS106-Processing-Packet-Digital.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2019/11/QS106-Processing-Packet.pdf"
 		}, {
 			"name": "Processing Packet Spanish",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS106-Processing-Packet-Spanish-Digital.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2019/11/QS106-Processing-Packet-Spanish.pdf"
 		}, {
 			"name": "Code Evaluation Report",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/07/SWD-Urethane-QS-106-QS-112-CCRR1011.pdf"
@@ -124,7 +124,10 @@
 	        }, {
 			"name": "Product Data",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/10/TDS-QS-100.pdf"
-		}]
+		}, {
+			"name": "Processing Packet",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/11/QS100-Processing-Packet.pdf"
+	        }]
 	},{
 		"countryId": 1,
 		"categoryId": 3,
@@ -186,7 +189,7 @@
 			"url": "http://swdurethane.com/wp-content/uploads/2018/05/TDS-QS-112-Spanish.pdf"
 		}, {
 			"name": "Processing Packet",
-			"url": "http://swdurethane.com/wp-content/uploads/2018/08/QS112-XC-Processing-Packet-digital.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2019/11/QS112-Processing-Packet.pdf"
 		}, {
 			"name": "Processing Packet Spanish",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS112-Processing-Packet-Spanish-Digital.pdf"
@@ -211,6 +214,9 @@
 		}, {
 			"name": "Product Data",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/10/TDS-QS-118XC.pdf"
+		}, {
+			"name": "Processing Packet",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/11/QS118-XC-Processing-Packet.pdf"
 		}]
 	}, {
 		"countryId": 1,
@@ -231,10 +237,10 @@
 			"url": "http://swdurethane.com/wp-content/uploads/2019/10/TDS-QS-118-Spanish.pdf"
 		}, {
 			"name": "Processing Packet",
-			"url": "http://swdurethane.com/wp-content/uploads/2017/10/QS118-Processing-Packet-digital.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2019/11/QS118-Processing-Packet.pdf"
 		}, {
 			"name": "Processing Packet Spanish",
-			"url": "http://swdurethane.com/wp-content/uploads/2017/10/QS118-Processing-Packet-Spanish-digital.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2019/11/QS118-Processing-Packet-Spanish.pdf"
 		}, {
 			"name": "Code Evaluation Report",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/07/SWD-Urethane-QS-118-CCRR1093.pdf"
