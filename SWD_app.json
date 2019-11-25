@@ -15,7 +15,7 @@
 			"url": "http://swdurethane.com/wp-content/uploads/2019/11/TDS-QS-108YM.pdf"
 		}, {
 			"name": "Product Data Spanish",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/TDS-QS-108YM-Spanish-Digital.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2019/11/TDS-QS-108YM-Spanish.pdf"
 		}, {
 			"name": "Processing Packet",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/11/QS108YM-Processing-Packet.pdf"
@@ -43,7 +43,10 @@
 		}, {
 			"name": "Product Data",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/11/TDS-QS-104.pdf"
-		},  {
+		}, {
+			"name": "Product Data Spanish",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/11/TDS-QS-104-Spanish.pdf" 
+		}, {
 			"name": "Processing Packet",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/07/QS104-Processing-Packet-Digital-1.pdf"
 		}, {
@@ -64,9 +67,6 @@
 		}, {
 			"name": "Product Data",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/11/TDS-QS-108.pdf"
-		}, {
-			"name": "Product Data Spanish",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/TDS-QS-108-Spanish-Digital.pdf"
 		}, {
 			"name": "Processing Packet",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/11/QS108-Processing-Packet.pdf"
@@ -96,7 +96,7 @@
 			"url": "http://swdurethane.com/wp-content/uploads/2019/11/TDS-QS-106.pdf"
 		}, {
 			"name": "Product Data Spanish",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/TDS-QS-106-Spanish-Digital.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2019/11/TDS-QS-106-Spanish.pdf"
 		}, {
 			"name": "Processing Packet",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/11/QS106-Processing-Packet.pdf"
@@ -123,7 +123,10 @@
 			"url": "http://swdurethane.com/wp-content/uploads/2019/10/SDS-QS100-AB.pdf"
 	        }, {
 			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/11/TDS-QS-100.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2019/11/TDS-QS-100.pdf" 
+		}, {
+			"name": "Product Data Spanish",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/11/TDS-QS-100-Spanish.pdf"
 		}, {
 			"name": "Processing Packet",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/11/QS100-Processing-Packet.pdf"
@@ -156,7 +159,7 @@
 			"url": "http://swdurethane.com/wp-content/uploads/2019/11/TDS-QS-112XC.pdf"
 		}, {
 			"name": "Product Data Spanish",
-			"url": "http://swdurethane.com/wp-content/uploads/2018/05/TDS-QS-112XC-Spanish.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2019/11/TDS-QS-112XC-Spanish.pdf"
 		}, {
 			"name": "Processing Packet",
 			"url": "http://swdurethane.com/wp-content/uploads/2018/08/QS112-XC-Processing-Packet-digital.pdf"
@@ -189,7 +192,7 @@
 			"url": "http://swdurethane.com/wp-content/uploads/2019/11/TDS-QS-112.pdf"
 		}, {
 			"name": "Product Data Spanish",
-			"url": "http://swdurethane.com/wp-content/uploads/2018/05/TDS-QS-112-Spanish.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2019/11/TDS-QS-112-Spanish.pdf"
 		}, {
 			"name": "Processing Packet",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/11/QS112-Processing-Packet.pdf"
@@ -218,6 +221,9 @@
 			"name": "Product Data",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/11/TDS-QS-118XC.pdf"
 		}, {
+			"name": "Product Data Spanish",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/11/TDS-QS-118XC-Spanish.pdf"
+		}, {
 			"name": "Processing Packet",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/11/QS118-XC-Processing-Packet.pdf"
 		}]
@@ -237,7 +243,7 @@
 			"url": "http://swdurethane.com/wp-content/uploads/2019/11/TDS-QS-118.pdf"
 		}, {
 			"name": "Product Data Spanish",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/10/TDS-QS-118-Spanish.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2019/11/TDS-QS-118-Spanish.pdf"
 		}, {
 			"name": "Processing Packet",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/11/QS118-Processing-Packet.pdf"
