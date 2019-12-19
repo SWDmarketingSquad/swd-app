@@ -722,17 +722,14 @@
 	}, {
 		"countryId": 2,
 		"categoryId": 3,
-		"title": "Quik-Shield 112XC",
-		"subtitle": "2 lb Cold Weather Spray Foam",
+		"title": "Quik-Shield 112XC2",
+		"subtitle": "Closed-Cell Cold-Weather Spray Foam Insulation",
 		"documents": [{
 			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/TDS-QS-112XC-Canada-Digital.pdf"
-		}, {
-			"name": "Product Data French",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/TDS-QS-112XC-Canada-French-Digital.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2019/12/TDS-QS-112XC2-Website-and-App-6.pdf"
 		}, {
 			"name": "Processing Packet",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS112UE-Processing-Packet-Digital.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2019/12/QS112XC2-Processing-Packet.pdf"
 		}]
 	}],
 	"categories": [{
