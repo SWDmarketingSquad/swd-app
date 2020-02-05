@@ -300,7 +300,7 @@
 			"url": "http://swdurethane.com/wp-content/uploads/2019/10/SDS-QS125-AB.pdf"
 		}, {
 			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/07/TDS-QS-125-2_5-Digital.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2020/02/TDS-QS-125-2.5.pdf"
 		}]
 	},{
 		"countryId": 1,
@@ -315,7 +315,7 @@
 			"url": "http://swdurethane.com/wp-content/uploads/2019/10/SDS-QS125-AB.pdf"
 		}, {
 			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/07/TDS-QS-125-2_8-Digital.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2020/02/TDS-QS-125-2.8.pdf"
 		}]
 	}, {
 		"countryId": 1,
@@ -330,7 +330,37 @@
 			"url": "http://swdurethane.com/wp-content/uploads/2019/10/SDS-QS125-AB.pdf"
 		}, {
 			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/07/TDS-QS-125-3-Digital.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2020/02/TDS-QS-125-3.0.pdf"
+		}]
+		
+		"countryId": 1,
+		"categoryId": 2,
+		"title": "Quik-Shield 155-2.5",
+		"subtitle": "Roofing Spray Foam",
+		"documents": [{
+			"name": "Product Data",
+			"url": "http://swdurethane.com/wp-content/uploads/2020/02/TDS-QS-155-2.5.pdf"
+		}]
+	},{
+		"countryId": 1,
+		"categoryId": 2,
+		"title": "Quik-Shield 155-2.8",
+		"subtitle": "Roofing Spray Foam",
+		"documents": [{
+			"name": "Product Data",
+			"url": "http://swdurethane.com/wp-content/uploads/2020/02/TDS-QS-155-2.8.pdf"
+		}, {
+			"name": "SDS (Safety Data Sheet)",
+			"url": "http://swdurethane.com/wp-content/uploads/2020/02/QS-155-2.8-S-B.pdf"
+		}]
+	}, {
+		"countryId": 1,
+		"categoryId": 2,
+		"title": "Quik-Shield 155-3",
+		"subtitle": "Roofing Spray Foam",
+		"documents": [{
+			"name": "Product Data",
+			"url": "http://swdurethane.com/wp-content/uploads/2020/02/TDS-QS-155-3.0.pdf"
 		}]
 	}, {
 		"countryId": 1,
