@@ -236,21 +236,6 @@
 	}, {
 		"countryId": 1,
 		"categoryId": 3,
-		"title": "Quik-Shield 180",
-		"subtitle": "Low GWP Agricultural Spray Foam",
-		"documents": [{
-			"name": "Brochure",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/05/QS180-Sell-Sheet-Digital.pdf"
-		}, {
-			"name": "SDS (Safety Data Sheet)",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-180-B.pdf"
-		}, {
-			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/05/TDS-QS-180-Digital.pdf"
-		}]
-	}, {
-		"countryId": 1,
-		"categoryId": 3,
 		"title": "Quik-Shield 450",
 		"subtitle": "Class 1 Pour Foam",
 		"documents": [{
