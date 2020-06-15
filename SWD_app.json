@@ -485,6 +485,33 @@
 	}, {
 		"countryId": 1,
 		"categoryId": 2,
+		"title": "Quik-Shield 2900",
+		"subtitle": "Stitchbonded Roofing Fabric - Soft 2.75 oz",
+		"documents": [{
+			"name": "Product Data",
+			"url": "http://swdurethane.com/wp-content/uploads/2020/06/TDS-QS-2900-1.pdf"
+		}]
+	}, {
+		"countryId": 1,
+		"categoryId": 2,
+		"title": "Quik-Shield 2905",
+		"subtitle": "Stitchbonded Roofing Fabric - Firm 2.75 oz",
+		"documents": [{
+			"name": "Product Data",
+			"url": "http://swdurethane.com/wp-content/uploads/2020/06/TDS-QS-2905.pdf"
+		}]
+	}, {
+		"countryId": 1,
+		"categoryId": 2,
+		"title": "Quik-Shield 2910",
+		"subtitle": "Stitchbonded Roofing Fabric - Soft 3 oz",
+		"documents": [{
+			"name": "Product Data",
+			"url": "http://swdurethane.com/wp-content/uploads/2020/06/TDS-QS-2910.pdf"
+		}]
+	}, {
+		"countryId": 1,
+		"categoryId": 2,
 		"title": "Quik-Shield 2020",
 		"subtitle": "Cementitious Roof Coating",
 		"documents": [{
