@@ -32,26 +32,29 @@
 	}, {
 		"countryId": 1,
 		"categoryId": 3,
-		"title": "Quik-Shield 104",
+		"title": "Quik-Shield 104EZ",
 		"subtitle": "No Mix Open-Cell Spray Foam",
 		"documents": [{
 			"name": "Brochure",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/07/QS104-Sell-Sheet-Digital.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2020/07/QS104-Brochure-2020.pdf"
 		}, {
 			"name": "SDS (Safety Data Sheet)",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/10/SDS-QS104-AB.pdf"
 		}, {
 			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/11/TDS-QS-104.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2020/07/TDS-QS-104EZ.pdf"
 		}, {
 			"name": "Product Data Spanish",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/11/TDS-QS-104-Spanish.pdf" 
+			"url": "http://swdurethane.com/wp-content/uploads/2020/07/TDS-QS-104EZ-Spanish.pdf" 
 		}, {
 			"name": "Processing Packet",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/03/QS104-Processing-Packet.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2020/07/QS104EZ-Processing-Packet.pdf"
 		}, {
 			"name": "Processing Packet Spanish",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/03/QS104-Processing-Packet-Spanish.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2020/07/QS104EZ-Processing-Packet-Spanish.pdf"
+		},{
+			"name": "Processing Packet Portuguese",
+			"url": "http://swdurethane.com/wp-content/uploads/2020/07/QS104EZ-Processing-Packet-Portuguese.pdf"
 		}]
 	}, {
 		"countryId": 1,
