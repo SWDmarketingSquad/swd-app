@@ -289,6 +289,15 @@
 		}]
 	}, {
 		"countryId": 1,
+		"categoryId": 3,
+		"title": "Quik-Shield 180",
+		"subtitle": "Agricultural Spray Foam",
+		"documents": [{
+			"name": "Product Data",
+			"url": "http://swdurethane.com/wp-content/uploads/2020/10/TDS-QS-180.pdf"
+		}]
+	}, {
+		"countryId": 1,
 		"categoryId": 2,
 		"title": "Quik-Shield 155-2.5",
 		"subtitle": "Roofing Spray Foam",
