@@ -194,30 +194,6 @@
 			"name": "VOC",
 			"url": "http://swdurethane.com/wp-content/uploads/2020/05/QUIK-SHIELD-112-GREENGUARD-Gold-Certification.pdf"
 		}]
-	},  {
-		"countryId": 1,
-		"categoryId": 3,
-		"title": "Quik-Shield 118XC",
-		"subtitle": "Ultra-Efficient Cold-Weather Foam",
-		"documents": [{
-			"name": "Brochure",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/07/QS118XC-Brochure.pdf"
-		}, {
-			"name": "SDS (Safety Data Sheet)",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/10/SDS-QS118XC-AB.pdf"
-		}, {
-			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/07/TDS-QS-118XC.pdf"
-		}, {
-			"name": "Product Data Spanish",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/11/TDS-QS-118XC-Spanish.pdf"
-		}, {
-			"name": "Processing Packet",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/11/QS118-XC-Processing-Packet.pdf"
-		}, {
-			"name": "VOC",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/05/QUIK-SHIELD-118-GREENGUARD-Certification.pdf"
-		}]
 	}, {
 		"countryId": 1,
 		"categoryId": 3,
