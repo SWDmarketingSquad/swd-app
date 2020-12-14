@@ -696,13 +696,13 @@
 		"subtitle": "1/2 lb. Spray Foam",
 		"documents": [{
 			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/07/TDS-QS-106-Canada.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2020/10/TDS-QS-106-Canada.pdf"
 		}, {
 			"name": "Product Data French",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/TDS-QS-106-Canada-French-Digital.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2020/10/TDS-QS-106-Canada-French.pdf"
 		}, {
 			"name": "Processing Packet",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS106-Processing-Packet-Canada-Digital.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2020/10/QS106-Processing-Packet-Canada-1.pdf"
 		}, {
 			"name": "Processing Packet French",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS106-Processing-Packet-Canada-French-Digital.pdf"
@@ -710,11 +710,14 @@
 	}, {
 		"countryId": 2,
 		"categoryId": 3,
-		"title": "Quik-Shield 112",
-		"subtitle": "Closed-Cell Spray Foam",
+		"title": "Quik-Shield 148 CDN",
+		"subtitle": "Ultra Efficient Low GWP Spray Foam",
 		"documents": [{
-			"name": "Product Data French",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/TDS-QS-112-Canada-French-Digital.pdf"
+			"name": "Product Data",
+			"url": "http://swdurethane.com/wp-content/uploads/2020/12/TDS-QS-148-CDN-1.pdf"
+		}, {
+			"name": "Processing Packet",
+			"url": "http://swdurethane.com/wp-content/uploads/2020/12/QS148-CDN-Processing-Packet.pdf"
 		}]
 	}, {
 		"countryId": 2,
@@ -723,13 +726,13 @@
 		"subtitle": "Ultra-Efficient Closed-Cell Spray Foam",
 		"documents": [{
 			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/07/TDS-QS-112UE-Canada.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2020/10/TDS-QS-112UE-Canada.pdf"
 		}, {
 			"name": "Product Data French",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/TDS-QS-112UE-Canada-French-Digital.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2020/10/TDS-QS-112UE-Canada-French-1.pdf"
 		}, {
 			"name": "Processing Packet",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS112UE-Processing-Packet-Digital.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2020/12/QS112-UE-Processing-Packet.pdf"
 		}]
 	}, {
 		"countryId": 2,
@@ -738,10 +741,13 @@
 		"subtitle": "Closed-Cell Cold-Weather Spray Foam Insulation",
 		"documents": [{
 			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/07/TDS-QS-112XC2.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2020/09/TDS-QS-112XC2.pdf"
 		}, {
 			"name": "Processing Packet",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/12/QS112XC2-Processing-Packet.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2020/10/QS112XC2-Processing-Packet.pdf"
+		}, {
+			"name": "Product Data French",
+			"url": "http://swdurethane.com/wp-content/uploads/2020/10/TDS-QS-112XC2-Canada-French.pdf"
 		}]
 	}],
 	"categories": [{
