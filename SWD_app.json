@@ -282,7 +282,7 @@
 			"url": "http://swdurethane.com/wp-content/uploads/2020/06/ESR-2532-2020.pdf"
 		}, {
 			"name": "SDS (Safety Data Sheet)",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/06/SWD-SDS-155-2.5SE.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2020/08/QS-155-2.5-I-B-032119.pdf"
 		}, {
 			"name": "Product Data",
 			"url": "http://swdurethane.com/wp-content/uploads/2020/07/TDS-QS-155-2.5.pdf"
@@ -297,7 +297,7 @@
 			"url": "http://swdurethane.com/wp-content/uploads/2020/06/ESR-2532-2020.pdf"
 		}, {
 			"name": "SDS (Safety Data Sheet)",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/02/QS-155-2.8-S-B.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2020/08/QS-155-2.8-W-B.pdf"
 		}, {
 			"name": "Product Data",
 			"url": "http://swdurethane.com/wp-content/uploads/2020/07/TDS-QS-155-2.8.pdf"
@@ -310,6 +310,9 @@
 		"documents": [{
 			"name": "ESR",
 			"url": "http://swdurethane.com/wp-content/uploads/2020/06/ESR-2532-2020.pdf"
+		}, {
+			"name": "SDS (Safety Data Sheet)",
+			"url": "http://swdurethane.com/wp-content/uploads/2020/08/QS-155-3.0-S-B.pdf"
 		}, {
 			"name": "Product Data",
 			"url": "http://swdurethane.com/wp-content/uploads/2020/07/TDS-QS-155-3.0.pdf"
@@ -345,7 +348,7 @@
 		"subtitle": "Acrylic Coating",
 		"documents": [{
 			"name": "SDS (Safety Data Sheet)",
-			"url": ""
+			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-1929.pdf"
 		}, {
 			"name": "Product Data",
 			"url": "http://swdurethane.com/wp-content/uploads/2020/06/TDS-QS-1929HT.pdf"
@@ -564,7 +567,7 @@
 		"subtitle": "Slab-jacking Foam",
 		"documents": [{
 			"name": "SDS (Safety Data Sheet)",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-232-B.pdf"
+			"url": "http://swdurethane.com/wp-content/uploads/2019/10/SDS-QS232-AB.pdf"
 		}, {
 			"name": "Product Data",
 			"url": "http://swdurethane.com/wp-content/uploads/2020/07/TDS-QS-232-Canada.pdf"
