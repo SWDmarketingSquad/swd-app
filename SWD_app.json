@@ -89,6 +89,21 @@
 	}, {
 		"countryId": 1,
 		"categoryId": 3,
+		"title": "Quik-Shield 090",
+		"subtitle": "Appendix X Open-Cell Spray Foam Insulation",
+		"documents": [{
+			"name": "SDS (Safety Data Sheet)",
+			"url": "https://swdurethane.com/wp-content/uploads/QS090-SDS.pdf"
+		}, {
+			"name": "Product Data",
+			"url": "https://swdurethane.com/wp-content/uploads/QS090-TDS.pdf"
+		}, {
+			"name": "Processing Packet",
+			"url": "https://swdurethane.com/wp-content/uploads/QS090-Processing-Packet.pdf"
+		}]
+	}, {
+		"countryId": 1,
+		"categoryId": 3,
 		"title": "Quik-Shield 106",
 		"subtitle": "Open-Cell Spray Foam",
 		"documents": [{
