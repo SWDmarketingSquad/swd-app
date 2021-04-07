@@ -290,8 +290,8 @@
 		"title": "Quik-Shield 155-2.5",
 		"subtitle": "Roofing Spray Foam",
 		"documents": [{
-			"name": "ESR",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/06/ESR-2532-2020.pdf"
+			"name": "Code Evaluation Report",
+			"url": "https://swdurethane.com/wp-content/uploads/Code-Evaluation-Report-2532.pdf"
 		}, {
 			"name": "SDS (Safety Data Sheet)",
 			"url": "http://swdurethane.com/wp-content/uploads/2020/08/QS-155-2.5-I-B-032119.pdf"
@@ -305,8 +305,8 @@
 		"title": "Quik-Shield 155-2.8",
 		"subtitle": "Roofing Spray Foam",
 		"documents": [{
-			"name": "ESR",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/06/ESR-2532-2020.pdf"
+			"name": "Code Evaluation Report",
+			"url": "https://swdurethane.com/wp-content/uploads/Code-Evaluation-Report-2532.pdf"
 		}, {
 			"name": "SDS (Safety Data Sheet)",
 			"url": "http://swdurethane.com/wp-content/uploads/2020/08/QS-155-2.8-W-B.pdf"
@@ -320,8 +320,8 @@
 		"title": "Quik-Shield 155-3",
 		"subtitle": "Roofing Spray Foam",
 		"documents": [{
-			"name": "ESR",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/06/ESR-2532-2020.pdf"
+			"name": "Code Evaluation Report",
+			"url": "https://swdurethane.com/wp-content/uploads/Code-Evaluation-Report-2532.pdf"
 		}, {
 			"name": "SDS (Safety Data Sheet)",
 			"url": "http://swdurethane.com/wp-content/uploads/2020/08/QS-155-3.0-S-B.pdf"
@@ -707,17 +707,23 @@
 	}, {
 		"countryId": 2,
 		"categoryId": 3,
-		"title": "Quik-Shield 106",
+		"title": "Quik-Shield 106 CDN",
 		"subtitle": "1/2 lb. Spray Foam",
 		"documents": [{
 			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/10/TDS-QS-106-Canada.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS106-CDN-TDS.pdf"
 		}, {
 			"name": "Product Data French",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/10/TDS-QS-106-Canada-French.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS106-CDN-TDS-French.pdf"
 		}, {
 			"name": "Processing Packet",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/10/QS106-Processing-Packet-Canada-1.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS106-CDN-Processing-Packet.pdf"
+		}, {
+			"name": "Processing Packet French",
+			"url": "https://swdurethane.com/wp-content/uploads/QS106-CDN-Processing-Packet-French.pdf"
+		}, {
+			"name": "SDS (Safety Data Sheet)",
+			"url": "https://swdurethane.com/wp-content/uploads/QS106-CDN-SDS.pdf"
 		}]
 	}, {
 		"countryId": 2,
@@ -726,10 +732,13 @@
 		"subtitle": "Ultra Efficient Low GWP Spray Foam",
 		"documents": [{
 			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/12/TDS-QS-148-CDN-1.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS106-CDN-SDS.pdf"
 		}, {
 			"name": "Processing Packet",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/12/QS148-CDN-Processing-Packet.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS148-CDN-Processing-Packet.pdf"
+		}, {
+			"name": "SDS (Safety Data Sheet)",
+			"url": "https://swdurethane.com/wp-content/uploads/QS148-CDN-SDS.pdf"
 		}]
 	}, {
 		"countryId": 2,
