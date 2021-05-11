@@ -24,10 +24,10 @@
 			"url": "https://swdurethane.com/wp-content/uploads/QS108YM-Processing-Packet-Spanish.pdf"
 		}, {
 			"name": "Code Evaluation Report",
-			"url": "https://swdurethane.com/wp-content/uploads/CCRR-108.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/Code-Evaluation-Report-1051.pdf"
 		}, {
 			"name": "VOC",
-			"url": "https://swdurethane.com/wp-content/uploads/QUIK-SHIELD-108-GREENGUARD-Gold-Certification.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/VOC-Analysis-QS108.pdf"
 		}]
 	}, {
 		"countryId": 1,
@@ -42,7 +42,7 @@
 			"url": "http://swdurethane.com/wp-content/uploads/2019/10/SDS-QS104-AB.pdf"
 		}, {
 			"name": "Code Evaluation Report",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/07/SWD-Urethane-QS-104-TER-1803-01.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/Code-Evaluation-Report-1803-01.pdf"
 		}, {
 			"name": "Product Data",
 			"url": "https://swdurethane.com/wp-content/uploads/QS104EZ-TDS.pdf"
@@ -81,10 +81,10 @@
 			"url": "https://swdurethane.com/wp-content/uploads/QS108-Processing-Packet-Spanish.pdf"
 		}, {
 			"name": "Code Evaluation Report",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/02/CCRR-108.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/Code-Evaluation-Report-1051.pdf"
 		}, {
 			"name": "VOC",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/08/QUIK-SHIELD-108-GREENGUARD-Gold-Certification.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/VOC-Analysis-QS108.pdf"
 		}]
 	}, {
 		"countryId": 1,
@@ -100,36 +100,6 @@
 		}, {
 			"name": "Processing Packet",
 			"url": "https://swdurethane.com/wp-content/uploads/QS090-Processing-Packet.pdf"
-		}]
-	}, {
-		"countryId": 1,
-		"categoryId": 3,
-		"title": "Quik-Shield 106",
-		"subtitle": "Open-Cell Spray Foam",
-		"documents": [{
-			"name": "Brochure",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS106-Sell-Sheet-Digital.pdf"
-		}, {
-			"name": "SDS (Safety Data Sheet)",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/10/SDS-QS106-AB.pdf"
-		}, {
-			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/07/TDS-QS-106.pdf"
-		}, {
-			"name": "Product Data Spanish",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/11/TDS-QS-106-Spanish.pdf"
-		}, {
-			"name": "Processing Packet",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/11/QS106-Processing-Packet.pdf"
-		}, {
-			"name": "Processing Packet Spanish",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/11/QS106-Processing-Packet-Spanish.pdf"
-		}, {
-			"name": "Code Evaluation Report",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/01/CCRR-1011-1.pdf"
-		}, {
-			"name": "VOC",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/VOC-Certificate-QS106-Berkeley-3.pdf"
 		}]
 	},{
 		"countryId": 1,
@@ -168,13 +138,13 @@
 			"url": "https://swdurethane.com/wp-content/uploads/QS112XC-Processing-Packet-Spanish.pdf"
 		}, {
 			"name": "Code Evaluation Report",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/01/CCRR-1011-1.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/Code-Evaluation-Report-1011.pdf"
 		}, {
 			"name": "ABAA Certificate",
 			"url": "http://swdurethane.com/wp-content/uploads/2019/08/ABAA-Air-Barrier-Material-Evaluated-Certificate_SWD_October-17-18.pdf"
 		}, {
 			"name": "VOC",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/05/QUIK-SHIELD-112-GREENGUARD-Gold-Certification.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/VOC-Analysis-QS112.pdf"
 		}]
 	}, {
 		"countryId": 1,
@@ -201,10 +171,10 @@
 			"url": "https://swdurethane.com/wp-content/uploads/QS112-Processing-Packet-Spanish.pdf"
 		}, {
 			"name": "Code Evaluation Report",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/01/CCRR-1011-1.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/Code-Evaluation-Report-1011.pdf"
 		}, {
 			"name": "VOC",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/05/QUIK-SHIELD-112-GREENGUARD-Gold-Certification.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/VOC-Analysis-QS112.pdf"
 		}]
 	}, {
 		"countryId": 1,
@@ -231,10 +201,10 @@
 			"url": "https://swdurethane.com/wp-content/uploads/QS118-Processing-Packet-Spanish.pdf"
 		}, {
 			"name": "Code Evaluation Report",
-			"url": "https://swdurethane.com/wp-content/uploads/SWD-Urethane-QS-118-CCRR1093.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/Code-Evaluation-Report-1093.pdf"
 		}, {
 			"name": "VOC",
-			"url": "https://swdurethane.com/wp-content/uploads/GREENGUARD-Gold-Certification-QS118.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/VOC-Analysis-QS118.pdf"
 		}]
 	}, {
 		"countryId": 1,
@@ -739,36 +709,6 @@
 		}, {
 			"name": "SDS (Safety Data Sheet)",
 			"url": "https://swdurethane.com/wp-content/uploads/QS148-CDN-SDS.pdf"
-		}]
-	}, {
-		"countryId": 2,
-		"categoryId": 3,
-		"title": "Quik-Shield 112UE",
-		"subtitle": "Ultra-Efficient Closed-Cell Spray Foam",
-		"documents": [{
-			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/10/TDS-QS-112UE-Canada.pdf"
-		}, {
-			"name": "Product Data French",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/10/TDS-QS-112UE-Canada-French-1.pdf"
-		}, {
-			"name": "Processing Packet",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/12/QS112-UE-Processing-Packet.pdf"
-		}]
-	}, {
-		"countryId": 2,
-		"categoryId": 3,
-		"title": "Quik-Shield 112XC2",
-		"subtitle": "Closed-Cell Cold-Weather Spray Foam Insulation",
-		"documents": [{
-			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/09/TDS-QS-112XC2.pdf"
-		}, {
-			"name": "Processing Packet",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/10/QS112XC2-Processing-Packet.pdf"
-		}, {
-			"name": "Product Data French",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/10/TDS-QS-112XC2-Canada-French.pdf"
 		}]
 	}],
 	"categories": [{
