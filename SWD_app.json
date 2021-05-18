@@ -9,7 +9,7 @@
 			"url": "https://swdurethane.com/wp-content/uploads/QS108YM-Brochure_2.pdf"
 		}, {
 			"name": "SDS (Safety Data Sheet)",
-			"url": "https://swdurethane.com/wp-content/uploads/SDS-QS108YM-AB.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS108YM-SDS.pdf"
 		}, {
 			"name": "Product Data",
 			"url": "https://swdurethane.com/wp-content/uploads/QS108YM-TDS.pdf"
@@ -39,7 +39,7 @@
 			"url": "http://swdurethane.com/wp-content/uploads/2020/07/QS104EZ-Brochure.pdf"
 		}, {
 			"name": "SDS (Safety Data Sheet)",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/10/SDS-QS104-AB.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS104EZ-SDS.pdf"
 		}, {
 			"name": "Code Evaluation Report",
 			"url": "https://swdurethane.com/wp-content/uploads/Code-Evaluation-Report-1803-01.pdf"
@@ -66,7 +66,7 @@
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS108-Sell-Sheet-Digital.pdf"
 		}, {
 			"name": "SDS (Safety Data Sheet)",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/10/SDS-QS108-AB.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS108-SDS.pdf"
 		}, {
 			"name": "Product Data",
 			"url": "https://swdurethane.com/wp-content/uploads/QS108-TDS.pdf"
@@ -123,7 +123,7 @@
 			"url": "http://swdurethane.com/wp-content/uploads/2019/11/QS112XC-Brochure-Digital-2.pdf"
 		}, {
 			"name": "SDS (Safety Data Sheet)",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/10/SDS-QS112XC-AB.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS112XC-SDS.pdf"
 		}, {
 			"name": "Product Data",
 			"url": "https://swdurethane.com/wp-content/uploads/QS112XC-TDS.pdf"
@@ -156,7 +156,7 @@
 			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS112-Sell-Sheet-Digital.pdf"
 		}, {
 			"name": "SDS (Safety Data Sheet)",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/10/SDS-QS112-AB.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS112-SDS.pdf"
 		}, {
 			"name": "Product Data",
 			"url": "https://swdurethane.com/wp-content/uploads/QS112-TDS.pdf"
@@ -186,7 +186,7 @@
 			"url": "https://swdurethane.com/wp-content/uploads/QS118-Brochure.pdf"
 		}, {
 			"name": "SDS (Safety Data Sheet)",
-			"url": "https://swdurethane.com/wp-content/uploads/SDS-QS118-AB.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS118-SDS.pdf"
 		}, {
 			"name": "Product Data",
 			"url": "https://swdurethane.com/wp-content/uploads/QS118-TDS.pdf"
@@ -213,13 +213,13 @@
 		"subtitle": "Class 1 Pour Foam",
 		"documents": [{
 			"name": "SDS (Safety Data Sheet)",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/10/SDS-QS450-AB.pdf"
-		}, {
-			"name": "Code Evaluation Report",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/08/QS450-Code-Eval-Report.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS450-SDS.pdf"
 		}, {
 			"name": "Product Data",
 			"url": "http://swdurethane.com/wp-content/uploads/2020/07/TDS-QS-450.pdf"
+		}, {	
+			"name": "Code Evaluation Report",
+			"url": "http://swdurethane.com/wp-content/uploads/2019/08/QS450-Code-Eval-Report.pdf"
 		}]
 	}, {
 		"countryId": 1,
@@ -227,11 +227,11 @@
 		"title": "Quik-Shield 232",
 		"subtitle": "Slab-jacking Foam",
 		"documents": [{
+			"name": "SDS (Safety Data Sheet)",
+			"url": "https://swdurethane.com/wp-content/uploads/QS232-SDS.pdf"
+		}, {
 			"name": "Product Data",
 			"url": "http://swdurethane.com/wp-content/uploads/2020/07/TDS-QS-232-Canada.pdf"
-		}, {
-			"name": "SDS (Safety Data Sheet)",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/10/SDS-QS232-AB.pdf"
 		}]
 	}, {
 		"countryId": 1,
@@ -240,7 +240,7 @@
 		"subtitle": "High Performance Tank Foam",
 		"documents": [{
 			"name": "SDS (Safety Data Sheet)",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/10/SDS-QS252-AB.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS252-SDS.pdf"
 		}, {
 			"name": "Product Data",
 			"url": "http://swdurethane.com/wp-content/uploads/2020/06/TDS-QS-252.pdf"
@@ -251,6 +251,9 @@
 		"title": "Quik-Shield 180",
 		"subtitle": "Agricultural Spray Foam",
 		"documents": [{
+			"name": "SDS (Safety Data Sheet)",
+			"url": "https://swdurethane.com/wp-content/uploads/QS180-SDS.pdf"
+		}, {
 			"name": "Product Data",
 			"url": "http://swdurethane.com/wp-content/uploads/2020/10/TDS-QS-180.pdf"
 		}]
