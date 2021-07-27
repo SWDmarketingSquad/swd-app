@@ -116,6 +116,27 @@
 			"name": "Code Evaluation Report",
 			"url": "https://swdurethane.com/wp-content/uploads/Code-Evaluation-Report-1050.pdf"
 		}]
+	}, {
+		"countryId": 1,
+		"categoryId": 3,
+		"title": "Quik-Shield 106OG",
+		"subtitle": "Open-Cell Spray Foam",
+		"documents": [{
+			"name": "SDS (Safety Data Sheet)",
+			"url": "https://swdurethane.com/wp-content/uploads/QS-106-OG-B.pdf"
+		}, {
+			"name": "SDS A Component (Safety Data Sheet)",
+			"url": "https://swdurethane.com/wp-content/uploads/A-COMPONENT-SDS.pdf"
+		}, {
+			"name": "Product Data",
+			"url": "https://swdurethane.com/wp-content/uploads/QS106OG-TDS.pdf"
+		}, {
+			"name": "Processing Packet",
+			"url": "https://swdurethane.com/wp-content/uploads/QS106OG-Processing-Packet.pdf"
+		}, {
+			"name": "Code Evaluation Report",
+			"url": "https://swdurethane.com/wp-content/uploads/Code-Evaluation-Report-1011.pdf"
+		}]
 	},{
 		"countryId": 1,
 		"categoryId": 3,
