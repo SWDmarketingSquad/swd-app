@@ -6,7 +6,7 @@
 		"subtitle": "Ultra-Low Density Open-Cell Spray Foam",
 		"documents": [{
 			"name": "Brochure",
-			"url": "https://swdurethane.com/wp-content/uploads/QS108YM-Brochure_2.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS108YM-Brochure.pdf"
 		}, {
 			"name": "SDS (Safety Data Sheet)",
 			"url": "https://swdurethane.com/wp-content/uploads/QS108YM-SDS.pdf"
@@ -39,7 +39,7 @@
 		"subtitle": "No Mix Open-Cell Spray Foam",
 		"documents": [{
 			"name": "Brochure",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/07/QS104EZ-Brochure.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS104EZ-Brochure.pdf"
 		}, {
 			"name": "SDS (Safety Data Sheet)",
 			"url": "https://swdurethane.com/wp-content/uploads/QS104EZ-SDS.pdf"
@@ -69,7 +69,7 @@
 		"subtitle": "Ultra-Low Density Open-Cell Spray Foam",
 		"documents": [{
 			"name": "Brochure",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS108-Sell-Sheet-Digital.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS108-Sell-Sheet-Digital.pdf"
 		}, {
 			"name": "SDS (Safety Data Sheet)",
 			"url": "https://swdurethane.com/wp-content/uploads/QS108-SDS.pdf"
@@ -156,7 +156,7 @@
 		"subtitle": "Cold Weather Closed-Cell Spray Foam",
 		"documents": [{
 			"name": "Brochure",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/11/QS112XC-Brochure-Digital-2.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS112XC-Brochure-Digital-2.pdf"
 		}, {
 			"name": "SDS (Safety Data Sheet)",
 			"url": "https://swdurethane.com/wp-content/uploads/QS112XC-SDS.pdf"
@@ -180,7 +180,7 @@
 			"url": "https://swdurethane.com/wp-content/uploads/Code-Evaluation-Report-1011.pdf"
 		}, {
 			"name": "ABAA Certificate",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/08/ABAA-Air-Barrier-Material-Evaluated-Certificate_SWD_October-17-18.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/ABAA-Air-Barrier-Material-Evaluated-Certificate_SWD_October-17-18.pdf"
 		}, {
 			"name": "VOC",
 			"url": "https://swdurethane.com/wp-content/uploads/VOC-Analysis-QS112.pdf"
@@ -192,7 +192,7 @@
 		"subtitle": "Closed-Cell Spray Foam",
 		"documents": [{
 			"name": "Brochure",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS112-Sell-Sheet-Digital.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS112-Sell-Sheet-Digital.pdf"
 		}, {
 			"name": "SDS (Safety Data Sheet)",
 			"url": "https://swdurethane.com/wp-content/uploads/QS112-SDS.pdf"
@@ -264,10 +264,10 @@
 			"url": "https://swdurethane.com/wp-content/uploads/A-COMPONENT-SDS.pdf"
 		}, {
 			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/07/TDS-QS-450.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/TDS-QS-450.pdf"
 		}, {	
 			"name": "Code Evaluation Report",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/08/QS450-Code-Eval-Report.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/Code-Evaluation-Report-1011.pdf"
 		}]
 	}, {
 		"countryId": 1,
@@ -282,7 +282,7 @@
 			"url": "https://swdurethane.com/wp-content/uploads/A-COMPONENT-SDS.pdf"
 		}, {
 			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/07/TDS-QS-232-Canada.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/TDS-QS-232-Canada.pdf"
 		}]
 	}, {
 		"countryId": 1,
@@ -297,7 +297,7 @@
 			"url": "https://swdurethane.com/wp-content/uploads/A-COMPONENT-SDS.pdf"
 		}, {
 			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/06/TDS-QS-252.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/TDS-QS-252.pdf"
 		}]
 	}, {
 		"countryId": 1,
@@ -312,7 +312,7 @@
 			"url": "https://swdurethane.com/wp-content/uploads/A-COMPONENT-SDS.pdf"
 		}, {
 			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/10/TDS-QS-180.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/TDS-QS-180.pdf"
 		}]
 	}, {
 		"countryId": 1,
@@ -378,7 +378,7 @@
 			"url": "https://swdurethane.com/wp-content/uploads/QS-1929.pdf"
 		}, {
 			"name": "Product Data",
-			"url": "https://swdurethane.com/wp-content/uploads/TDS-QS-1929F-Digital.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS1929F-TDS.pdf"
 		}]
 	}, {
 		"countryId": 1,
