@@ -137,18 +137,6 @@
 			"name": "Code Evaluation Report",
 			"url": "https://swdurethane.com/wp-content/uploads/Code-Evaluation-Report-1011.pdf"
 		}]
-	},{
-		"countryId": 1,
-		"categoryId": 3,
-		"title": "Quik-Shield 112XC2",
-		"subtitle": "Commercial Grade Spray Foam Insulation",
-		"documents": [{
-			"name": "Product Data", 
-			"url": "http://swdurethane.com/wp-content/uploads/2020/07/TDS-QS-112XC2.pdf"
-		}, {
-			"name": "VOC",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/05/QUIK-SHIELD-112-GREENGUARD-Gold-Certification.pdf"
-		}]
 	}, {
 		"countryId": 1,
 		"categoryId": 3,
@@ -602,146 +590,17 @@
 	}, {
 		"countryId": 1,
 		"categoryId": 1,
-		"title": "Quik-Shield 205",
-		"subtitle": "Ditch Break Foam",
-		"documents": [{
-			"name": "SDS (Safety Data Sheet)",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-205-B.pdf"
-		}, {
-			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/07/TDS-QS-205.pdf"
-		}]
-	}, {
-		"countryId": 1,
-		"categoryId": 1,
 		"title": "Quik-Shield 232",
 		"subtitle": "Slab-jacking Foam",
 		"documents": [{
 			"name": "SDS (Safety Data Sheet)",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/10/SDS-QS232-AB.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS232-SDS.pdf"
+		}, {
+			"name": "SDS A Component (Safety Data Sheet)",
+			"url": "https://swdurethane.com/wp-content/uploads/A-COMPONENT-SDS.pdf"
 		}, {
 			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/07/TDS-QS-232-Canada.pdf"
-		}]
-	}, {
-		"countryId": 1,
-		"categoryId": 1,
-		"title": "Quik-Shield 212",
-		"subtitle": "Pipe Jacketing Insulation",
-		"documents": [{
-			"name": "SDS (Safety Data Sheet)",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-212-B.pdf"
-		}, {
-			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/PDS-QS212.pdf"
-		}]
-	}, {
-		"countryId": 1,
-		"categoryId": 1,
-		"title": "Quik-Shield 901",
-		"subtitle": "Aromatic Polyurea Spray Elastomer - UV Resistant",
-		"documents": [{
-			"name": "SDS (Safety Data Sheet)",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-901-B.pdf"
-		}, {
-			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/08/TDS-QS-901.pdf"
-		}]
-	}, {
-		"countryId": 1,
-		"categoryId": 1,
-		"title": "Quik-Shield 951",
-		"subtitle": "High Modulus Polyurea Hybrid Elastomer",
-		"documents": [{
-			"name": "SDS (Safety Data Sheet)",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-951-B-1.pdf"
-		}, {
-			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/06/TDS-QS-951.pdf"
-		}]
-	}, {
-		"countryId": 1,
-		"categoryId": 0,
-		"title": "Quik-Shield 901",
-		"subtitle": "Aromatic Polyurea Spray Elastomer - UV Resistant",
-		"documents": [{
-			"name": "SDS (Safety Data Sheet)",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-901-B.pdf"
-		}, {
-			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/08/TDS-QS-901.pdf"
-		}]
-	}, {
-		"countryId": 1,
-		"categoryId": 0,
-		"title": "Quik-Shield 931",
-		"subtitle": "Low Modulus Polyurea Hybrid Elastomer",
-		"documents": [{
-			"name": "SDS (Safety Data Sheet)",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-931-B.pdf"
-		}, {
-			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/08/TDS-QS-931.pdf"
-		}]
-	}, {
-		"countryId": 1,
-		"categoryId": 0,
-		"title": "Quik-Shield 932",
-		"subtitle": "Low Modulus Polyurea Hybrid Elastomer - UV Resistant",
-		"documents": [{
-			"name": "SDS (Safety Data Sheet)",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-932-B.pdf"
-		}, {
-			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/08/TDS-QS-932.pdf"
-		}]
-	}, {
-		"countryId": 1,
-		"categoryId": 0,
-		"title": "Quik-Shield 941",
-		"subtitle": "Polyurea Hybrid Elastomer",
-		"documents": [{
-			"name": "SDS (Safety Data Sheet)",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-941-B.pdf"
-		}, {
-			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/08/TDS-QS-941.pdf"
-		}]
-	}, {
-		"countryId": 1,
-		"categoryId": 0,
-		"title": "Quik-Shield 942",
-		"subtitle": "Polyurea Hybrid Elastomer - UV Resistant",
-		"documents": [{
-			"name": "SDS (Safety Data Sheet)",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-942-B.pdf"
-		}, {
-			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/08/TDS-QS-942.pdf"
-		}]
-	}, {
-		"countryId": 1,
-		"categoryId": 0,
-		"title": "Quik-Shield 951",
-		"subtitle": "High Modulus Polyurea Hybrid Elastomer",
-		"documents": [{
-			"name": "SDS (Safety Data Sheet)",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-951-B-1.pdf"
-		}, {
-			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/06/TDS-QS-951.pdf"
-		}]
-	}, {
-		"countryId": 1,
-		"categoryId": 0,
-		"title": "Quik-Shield 952",
-		"subtitle": "High Modulus Polyurea Hybrid Elastomer - UV Resistant",
-		"documents": [{
-			"name": "SDS (Safety Data Sheet)",
-			"url": "http://swdurethane.com/wp-content/uploads/2019/06/QS-952-B.pdf"
-		}, {
-			"name": "Product Data",
-			"url": "http://swdurethane.com/wp-content/uploads/2020/06/TDS-QS-952.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/TDS-QS-232-Canada.pdf"
 		}]
 	}, {
 		"countryId": 2,
