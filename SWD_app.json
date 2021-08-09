@@ -236,6 +236,24 @@
 	}, {
 		"countryId": 1,
 		"categoryId": 3,
+		"title": "Quik-Shield 144",
+		"subtitle": "Low GWP Spray Foam",
+		"documents": [{
+			"name": "Product Data",
+			"url": "https://swdurethane.com/wp-content/uploads/QS144-TDS.pdf"
+		}, {
+			"name": "Processing Packet",
+			"url": "https://swdurethane.com/wp-content/uploads/QS144-Processing-Packet.pdf"
+		}, {
+			"name": "Processing Packet Spanish",
+			"url": "https://swdurethane.com/wp-content/uploads/QS144-Processing-Packet-Spanish.pdf"
+		}, {
+			"name": "Code Evaluation Report",
+			"url": "https://swdurethane.com/wp-content/uploads/Code-Evaluation-Report-0391.pdf"
+		}]
+	}, {
+		"countryId": 1,
+		"categoryId": 3,
 		"title": "Quik-Shield 450",
 		"subtitle": "Class 1 Pour Foam",
 		"documents": [{
