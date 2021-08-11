@@ -239,11 +239,14 @@
 		"title": "Quik-Shield 144",
 		"subtitle": "Low GWP Spray Foam",
 		"documents": [{
+			"name": "SDS (Safety Data Sheet)",
+			"url": "https://swdurethane.com/wp-content/uploads/QS144-SDS.pdf"
+		}, {	
 			"name": "SDS A Component (Safety Data Sheet)",
 			"url": "https://swdurethane.com/wp-content/uploads/A-COMPONENT-SDS.pdf"
 		}, {
 			"name": "Product Data",
-			"url": "https://swdurethane.com/wp-content/uploads/QS144-TDS.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS144-TDS-Rev.05.pdf"
 		}, {
 			"name": "Processing Packet",
 			"url": "https://swdurethane.com/wp-content/uploads/QS144-Processing-Packet.pdf"
