@@ -6,13 +6,13 @@
 		"subtitle": "Ultra-Low Density Open-Cell Spray Foam",
 		"documents": [{
 			"name": "Brochure",
-			"url": "https://swdurethane.com/wp-content/uploads/QS108YM-Brochure.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/108YM-Cut-Sheet.pdf"
 		}, {
 			"name": "SDS (Safety Data Sheet)",
 			"url": "https://swdurethane.com/wp-content/uploads/QS108YM-SDS.pdf"
 		}, {
 			"name": "SDS A Component (Safety Data Sheet)",
-			"url": "https://swdurethane.com/wp-content/uploads/A-COMPONENT-SDS.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS-A.pdf"
 		}, {
 			"name": "Product Data",
 			"url": "https://swdurethane.com/wp-content/uploads/QS108YM-TDS.pdf"
@@ -39,13 +39,13 @@
 		"subtitle": "No Mix Open-Cell Spray Foam",
 		"documents": [{
 			"name": "Brochure",
-			"url": "https://swdurethane.com/wp-content/uploads/QS104EZ-Brochure.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/104EZ-Cut-Sheet.pdf"
 		}, {
 			"name": "SDS (Safety Data Sheet)",
 			"url": "https://swdurethane.com/wp-content/uploads/QS104EZ-SDS.pdf"
 		}, {
 			"name": "SDS A Component (Safety Data Sheet)",
-			"url": "https://swdurethane.com/wp-content/uploads/A-COMPONENT-SDS.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS-A.pdf"
 		}, {
 			"name": "Product Data",
 			"url": "https://swdurethane.com/wp-content/uploads/QS104EZ-TDS.pdf"
@@ -66,7 +66,7 @@
 		"countryId": 1,
 		"categoryId": 3,
 		"title": "Quik-Shield 108",
-		"subtitle": "Ultra-Low Density Open-Cell Spray Foam",
+		"subtitle": "Low Density Open-Cell Spray Foam",
 		"documents": [{
 			"name": "Brochure",
 			"url": "https://swdurethane.com/wp-content/uploads/QS108-Sell-Sheet-Digital.pdf"
@@ -75,10 +75,10 @@
 			"url": "https://swdurethane.com/wp-content/uploads/QS108-SDS.pdf"
 		}, {
 			"name": "SDS A Component (Safety Data Sheet)",
-			"url": "https://swdurethane.com/wp-content/uploads/A-COMPONENT-SDS.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS-A.pdf"
 		}, {
 			"name": "Product Data",
-			"url": "https://swdurethane.com/wp-content/uploads/QS108-TDS.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS108-TDS-Rev.01.pdf"
 		}, {
 			"name": "Product Data Spanish",
 			"url": "https://swdurethane.com/wp-content/uploads/QS108-TDS-Spanish.pdf" 
@@ -105,13 +105,19 @@
 			"url": "https://swdurethane.com/wp-content/uploads/QS090-SDS.pdf"
 		}, {
 			"name": "SDS A Component (Safety Data Sheet)",
-			"url": "https://swdurethane.com/wp-content/uploads/A-COMPONENT-SDS.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS-A.pdf"
 		}, {
 			"name": "Product Data",
 			"url": "https://swdurethane.com/wp-content/uploads/QS090-TDS.pdf"
 		}, {
+			"name": "Product Data Spanish",
+			"url": "https://swdurethane.com/wp-content/uploads/QS090-TDS-Spanish.pdf" 
+		}, {
 			"name": "Processing Packet",
 			"url": "https://swdurethane.com/wp-content/uploads/QS090-Processing-Packet.pdf"
+		}, {
+			"name": "Processing Packet Spanish",
+			"url": "https://swdurethane.com/wp-content/uploads/QS090-Processing-Packet-Spanish.pdf"
 		}, {
 			"name": "Code Evaluation Report",
 			"url": "https://swdurethane.com/wp-content/uploads/Code-Evaluation-Report-1050.pdf"
@@ -122,11 +128,14 @@
 		"title": "Quik-Shield 106OG",
 		"subtitle": "Open-Cell Spray Foam",
 		"documents": [{
+			"name": "Brochure",
+			"url": "https://swdurethane.com/wp-content/uploads/QS106OG-Cut-Sheet.pdf"
+		}, {
 			"name": "SDS (Safety Data Sheet)",
 			"url": "https://swdurethane.com/wp-content/uploads/QS-106-OG-B.pdf"
 		}, {
 			"name": "SDS A Component (Safety Data Sheet)",
-			"url": "https://swdurethane.com/wp-content/uploads/A-COMPONENT-SDS.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS-A.pdf"
 		}, {
 			"name": "Product Data",
 			"url": "https://swdurethane.com/wp-content/uploads/QS106OG-TDS.pdf"
@@ -150,7 +159,7 @@
 			"url": "https://swdurethane.com/wp-content/uploads/QS112XC-SDS.pdf"
 		}, {
 			"name": "SDS A Component (Safety Data Sheet)",
-			"url": "https://swdurethane.com/wp-content/uploads/A-COMPONENT-SDS.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS-A.pdf"
 		}, {
 			"name": "Product Data",
 			"url": "https://swdurethane.com/wp-content/uploads/QS112XC-TDS.pdf"
@@ -183,7 +192,7 @@
 			"url": "https://swdurethane.com/wp-content/uploads/QS112-SDS.pdf"
 		}, {
 			"name": "SDS A Component (Safety Data Sheet)",
-			"url": "https://swdurethane.com/wp-content/uploads/A-COMPONENT-SDS.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS-A.pdf"
 		}, {
 			"name": "Product Data",
 			"url": "https://swdurethane.com/wp-content/uploads/QS112-TDS.pdf"
@@ -204,19 +213,19 @@
 		"countryId": 1,
 		"categoryId": 3,
 		"title": "Quik-Shield 118",
-		"subtitle": "Ultra-Efficient Closed-Cell Spray Foam",
+		"subtitle": "Efficient Closed-Cell Spray Foam",
 		"documents": [{
 			"name": "Brochure",
-			"url": "https://swdurethane.com/wp-content/uploads/QS118-Brochure.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/118-Cut-Sheet.pdf"
 		}, {
 			"name": "SDS (Safety Data Sheet)",
 			"url": "https://swdurethane.com/wp-content/uploads/QS118-SDS.pdf"
 		}, {
 			"name": "SDS A Component (Safety Data Sheet)",
-			"url": "https://swdurethane.com/wp-content/uploads/A-COMPONENT-SDS.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS-A.pdf"
 		}, {
 			"name": "Product Data",
-			"url": "https://swdurethane.com/wp-content/uploads/QS118-TDS.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS118-TDS-Rev.01.pdf"
 		}, {
 			"name": "Product Data Spanish",
 			"url": "https://swdurethane.com/wp-content/uploads/QS118-TDS-Spanish.pdf"
@@ -243,10 +252,10 @@
 			"url": "https://swdurethane.com/wp-content/uploads/QS144-SDS.pdf"
 		}, {	
 			"name": "SDS A Component (Safety Data Sheet)",
-			"url": "https://swdurethane.com/wp-content/uploads/A-COMPONENT-SDS.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS-A.pdf"
 		}, {
 			"name": "Product Data",
-			"url": "https://swdurethane.com/wp-content/uploads/QS144-TDS-Rev.05.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS144-TDS.pdf"
 		}, {
 			"name": "Processing Packet",
 			"url": "https://swdurethane.com/wp-content/uploads/QS144-Processing-Packet.pdf"
@@ -267,7 +276,7 @@
 			"url": "https://swdurethane.com/wp-content/uploads/QS450-SDS.pdf"
 		}, {
 			"name": "SDS A Component (Safety Data Sheet)",
-			"url": "https://swdurethane.com/wp-content/uploads/A-COMPONENT-SDS.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS-A.pdf"
 		}, {
 			"name": "Product Data",
 			"url": "https://swdurethane.com/wp-content/uploads/TDS-QS-450.pdf"
@@ -285,7 +294,7 @@
 			"url": "https://swdurethane.com/wp-content/uploads/QS232-SDS.pdf"
 		}, {
 			"name": "SDS A Component (Safety Data Sheet)",
-			"url": "https://swdurethane.com/wp-content/uploads/A-COMPONENT-SDS.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS-A.pdf"
 		}, {
 			"name": "Product Data",
 			"url": "https://swdurethane.com/wp-content/uploads/TDS-QS-232-Canada.pdf"
@@ -300,7 +309,7 @@
 			"url": "https://swdurethane.com/wp-content/uploads/QS252-SDS.pdf"
 		}, {
 			"name": "SDS A Component (Safety Data Sheet)",
-			"url": "https://swdurethane.com/wp-content/uploads/A-COMPONENT-SDS.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS-A.pdf"
 		}, {
 			"name": "Product Data",
 			"url": "https://swdurethane.com/wp-content/uploads/TDS-QS-252.pdf"
@@ -315,7 +324,7 @@
 			"url": "https://swdurethane.com/wp-content/uploads/QS180-SDS.pdf"
 		}, {
 			"name": "SDS A Component (Safety Data Sheet)",
-			"url": "https://swdurethane.com/wp-content/uploads/A-COMPONENT-SDS.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS-A.pdf"
 		}, {
 			"name": "Product Data",
 			"url": "https://swdurethane.com/wp-content/uploads/TDS-QS-180.pdf"
@@ -333,7 +342,7 @@
 			"url": "https://swdurethane.com/wp-content/uploads/QS-155-2.5-I-B-032119.pdf"
 		}, {
 			"name": "SDS A Component (Safety Data Sheet)",
-			"url": "https://swdurethane.com/wp-content/uploads/A-COMPONENT-SDS.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS-A.pdf"
 		}, {
 			"name": "Product Data",
 			"url": "https://swdurethane.com/wp-content/uploads/QS155-2.5-TDS.pdf"
@@ -351,7 +360,7 @@
 			"url": "http://swdurethane.com/wp-content/uploads/2020/08/QS-155-2.8-W-B.pdf"
 		}, {
 			"name": "SDS A Component (Safety Data Sheet)",
-			"url": "https://swdurethane.com/wp-content/uploads/A-COMPONENT-SDS.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS-A.pdf"
 		}, {
 			"name": "Product Data",
 			"url": "https://swdurethane.com/wp-content/uploads/QS155-2.8-TDS.pdf"
@@ -369,7 +378,7 @@
 			"url": "https://swdurethane.com/wp-content/uploads/QS155-3.0-SDS.pdf"
 		}, {
 			"name": "SDS A Component (Safety Data Sheet)",
-			"url": "https://swdurethane.com/wp-content/uploads/A-COMPONENT-SDS.pdf"
+			"url": "https://swdurethane.com/wp-content/uploads/QS-A.pdf"
 		}, {
 			"name": "Product Data",
 			"url": "https://swdurethane.com/wp-content/uploads/QS155-3.0-TDS.pdf"
