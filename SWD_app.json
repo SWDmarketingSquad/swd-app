@@ -248,6 +248,9 @@
 		"title": "Quik-Shield 144",
 		"subtitle": "Low GWP Spray Foam",
 		"documents": [{
+			"name": "Brochure",
+			"url": "https://swdurethane.com/wp-content/uploads/144-Cut-Sheet-Rev.02.pdf"
+		}, {
 			"name": "SDS (Safety Data Sheet)",
 			"url": "https://swdurethane.com/wp-content/uploads/QS144-SDS.pdf"
 		}, {	
