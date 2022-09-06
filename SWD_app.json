@@ -65,33 +65,6 @@
 	}, {
 		"countryId": 1,
 		"categoryId": 3,
-		"title": "Quik-Shield 090",
-		"subtitle": "Appendix X Open-Cell Spray Foam",
-		"documents": [{
-			"name": "SDS (Safety Data Sheet)",
-			"url": "https://swdurethane.com/wp-content/uploads/QS090-SDS.pdf"
-		}, {
-			"name": "SDS A Component (Safety Data Sheet)",
-			"url": "https://swdurethane.com/wp-content/uploads/QS-A.pdf"
-		}, {
-			"name": "Product Data",
-			"url": "https://swdurethane.com/wp-content/uploads/QS090-TDS.pdf"
-		}, {
-			"name": "Product Data Spanish",
-			"url": "https://swdurethane.com/wp-content/uploads/QS090-TDS-Spanish.pdf" 
-		}, {
-			"name": "Processing Packet",
-			"url": "https://swdurethane.com/wp-content/uploads/QS090-Processing-Packet.pdf"
-		}, {
-			"name": "Processing Packet Spanish",
-			"url": "https://swdurethane.com/wp-content/uploads/QS090-Processing-Packet-Spanish.pdf"
-		}, {
-			"name": "Code Evaluation Report",
-			"url": "https://swdurethane.com/wp-content/uploads/Code-Evaluation-Report-1050.pdf"
-		}]
-	}, {
-		"countryId": 1,
-		"categoryId": 3,
 		"title": "Quik-Shield 112XC",
 		"subtitle": "Cold Weather Closed-Cell Spray Foam",
 		"documents": [{
