@@ -254,30 +254,6 @@
 	}, {
 		"countryId": 1,
 		"categoryId": 2,
-		"title": "Quik-Shield 1929R",
-		"subtitle": "Acrylic Coating",
-		"documents": [{
-			"name": "SDS (Safety Data Sheet)",
-			"url": "https://swdurethane.com/wp-content/uploads/QS-1929.pdf"
-		}, {
-			"name": "Product Data",
-			"url": "https://swdurethane.com/wp-content/uploads/TDS-QS-1929R.pdf"
-		}]
-	}, {
-		"countryId": 1,
-		"categoryId": 2,
-		"title": "Quik-Shield 1929HT",
-		"subtitle": "Acrylic Coating",
-		"documents": [{
-			"name": "SDS (Safety Data Sheet)",
-			"url": "https://swdurethane.com/wp-content/uploads/QS-1929.pdf"
-		}, {
-			"name": "Product Data",
-			"url": "https://swdurethane.com/wp-content/uploads/TDS-QS-1929HT.pdf"
-		}]
-	}, {
-		"countryId": 1,
-		"categoryId": 2,
 		"title": "Quik-Shield 1881",
 		"subtitle": "Acrylic Patching Compound",
 		"documents": [{
