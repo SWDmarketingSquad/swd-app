@@ -98,36 +98,6 @@
 	}, {
 		"countryId": 1,
 		"categoryId": 3,
-		"title": "Quik-Shield 112",
-		"subtitle": "Closed-Cell Spray Foam",
-		"documents": [{
-			"name": "Brochure",
-			"url": "https://swdurethane.com/wp-content/uploads/QS112-Sell-Sheet-Digital.pdf"
-		}, {
-			"name": "SDS (Safety Data Sheet)",
-			"url": "https://swdurethane.com/wp-content/uploads/QS112-SDS.pdf"
-		}, {
-			"name": "SDS A Component (Safety Data Sheet)",
-			"url": "https://swdurethane.com/wp-content/uploads/QS-A.pdf"
-		}, {
-			"name": "Product Data",
-			"url": "https://swdurethane.com/wp-content/uploads/QS112-TDS.pdf"
-		}, {
-			"name": "Processing Packet",
-			"url": "https://swdurethane.com/wp-content/uploads/QS112-Processing-Packet.pdf"
-		}, {
-			"name": "Processing Packet Spanish",
-			"url": "https://swdurethane.com/wp-content/uploads/QS112-Processing-Packet-Spanish.pdf"
-		}, {
-			"name": "Code Evaluation Report",
-			"url": "https://swdurethane.com/wp-content/uploads/Code-Evaluation-Report-1011.pdf"
-		}, {
-			"name": "VOC",
-			"url": "https://swdurethane.com/wp-content/uploads/VOC-Analysis-QS112.pdf"
-		}]
-	}, {
-		"countryId": 1,
-		"categoryId": 3,
 		"title": "Quik-Shield 118",
 		"subtitle": "Efficient Closed-Cell Spray Foam",
 		"documents": [{
