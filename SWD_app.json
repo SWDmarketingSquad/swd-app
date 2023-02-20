@@ -65,6 +65,30 @@
 	}, {
 		"countryId": 1,
 		"categoryId": 3,
+		"title": "Quik-Shield YETI",
+		"subtitle": "All Seasons Low GWP Spray Foam",
+		"documents": [{
+			"name": "Brochure",
+			"url": "https://swdurethane.com/wp-content/uploads/YETI-Cut-Sheet.pdf"
+		}, {
+			"name": "SDS (Safety Data Sheet)",
+			"url": "https://swdurethane.com/wp-content/uploads/QS-YETI-SDS.pdf"
+		}, {
+			"name": "SDS A Component (Safety Data Sheet)",
+			"url": "https://swdurethane.com/wp-content/uploads/QS-A.pdf"
+		}, {
+			"name": "Product Data",
+			"url": "https://swdurethane.com/wp-content/uploads/QS-YETI-TDS.pdf"
+		}, {
+			"name": "Processing Packet",
+			"url": "https://swdurethane.com/wp-content/uploads/QS-YETI-Processing-Packet.pdf"
+		}, {
+			"name": "Code Evaluation Report",
+			"url": "https://swdurethane.com/wp-content/uploads/CCRR-0478.pdf"
+		}]
+	}, {
+		"countryId": 1,
+		"categoryId": 3,
 		"title": "Quik-Shield 112XC",
 		"subtitle": "Cold Weather Closed-Cell Spray Foam",
 		"documents": [{
