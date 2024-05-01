@@ -2,6 +2,36 @@
 	"products": [{
 		"countryId": 1,
 		"categoryId": 3,
+		"title": "Quik-Shield DRAGON",
+		"subtitle": "No-Mix Open-Cell Foam",
+		"documents": [{
+			"name": "Brochure",
+			"url": "https://swdurethane.com/wp-content/uploads/DRAGON-Cut-Sheet.pdf"
+		}, {
+			"name": "SDS (Safety Data Sheet)",
+			"url": "https://swdurethane.com/wp-content/uploads/QS-DRAGON-SDS.pdf"
+		}, {
+			"name": "SDS A Component (Safety Data Sheet)",
+			"url": "https://swdurethane.com/wp-content/uploads/QS-A.pdf"
+		}, {
+			"name": "Product Data",
+			"url": "https://swdurethane.com/wp-content/uploads/DRAGON-TDS-Rev.01.pdf"
+		}, {
+			"name": "Product Data Spanish",
+			"url": "https://swdurethane.com/wp-content/uploads/DRAGON-TDS-Spanish-Rev.01.pdf"
+		}, {
+			"name": "Processing Packet",
+			"url": "https://swdurethane.com/wp-content/uploads/DRAGON-Processing-Packet-Rev.01.pdf"
+		}, {
+			"name": "Code Evaluation Report",
+			"url": "https://swdurethane.com/wp-content/uploads/Code-Evaluation-Report-2310-01.pdf"
+		}, {
+			"name": "VOC",
+			"url": "https://swdurethane.com/wp-content/uploads/VOC-Analysis-DRAGON.pdf"
+		}]
+	}, {
+		"countryId": 1,
+		"categoryId": 3,
 		"title": "Quik-Shield 108YM",
 		"subtitle": "Ultra-Low Density Open-Cell Spray Foam",
 		"documents": [{
@@ -61,6 +91,33 @@
 		}, {
 			"name": "Code Evaluation Report",
 			"url": "https://swdurethane.com/wp-content/uploads/Code-Evaluation-Report-1803-01.pdf"
+		}]
+	}, {
+		"countryId": 1,
+		"categoryId": 3,
+		"title": "Quik-Shield GOBLIN",
+		"subtitle": "2lb Low GWP Spray Foam",
+		"documents": [{
+			"name": "Brochure",
+			"url": "https://swdurethane.com/wp-content/uploads/GOBLIN-Cut-Sheet.pdf"
+		}, {
+			"name": "SDS (Safety Data Sheet)",
+			"url": "https://swdurethane.com/wp-content/uploads/QS-GOBLIN-SDS.pdf"
+		}, {
+			"name": "SDS A Component (Safety Data Sheet)",
+			"url": "https://swdurethane.com/wp-content/uploads/QS-A.pdf"
+		}, {
+			"name": "Product Data",
+			"url": "https://swdurethane.com/wp-content/uploads/GOBLIN-TDS-Rev.01.pdf"
+		}, {
+			"name": "Processing Packet",
+			"url": "https://swdurethane.com/wp-content/uploads/GOBLIN-Processing-Packet-Rev.01.pdf"
+		}, {
+			"name": "Processing Packet Spanish",
+			"url": "https://swdurethane.com/wp-content/uploads/GOBLIN-Processing-Packet-Spanish-Rev.01.pdf"
+		}, {
+			"name": "Code Evaluation Report",
+			"url": "https://swdurethane.com/wp-content/uploads/CCRR-0507.pdf"
 		}]
 	}, {
 		"countryId": 1,
