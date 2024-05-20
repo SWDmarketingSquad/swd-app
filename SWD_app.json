@@ -363,6 +363,15 @@
 			"url": "https://swdurethane.com/wp-content/uploads/QS-2020-R.pdf"
 		}]
 	}, {
+		"countryId": 1,
+		"categoryId": 3,
+		"title": "Drum Fill Weights (2024)",
+		"subtitle": "",
+		"documents": [{
+			"name": "PDF",
+			"url": "https://swdurethane.com/wp-content/uploads/Drum-Fill-Weights-2024.pdf"
+		}]
+	}, {
 		"countryId": 2,
 		"categoryId": 3,
 		"title": "Quik-Shield 106 CDN",
@@ -411,6 +420,10 @@
 		"name": "Roofing",
 		"countryId": 1,
 		"id": 2
+	}, {
+		"name": "Drum Fill Weights",
+		"countryId": 1,
+		"id": 3
     }]
 
 }
