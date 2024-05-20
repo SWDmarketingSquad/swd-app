@@ -408,17 +408,9 @@
 		"countryId": 2,
 		"id": 3
 	}, {
-		"name": "Geotechnical",
-		"countryId": 1,
-		"id": 1
-	}, {
 		"name": "Roofing",
 		"countryId": 1,
 		"id": 2
-	}, {
-        	"name": "High Performance Coatings",
-        	"countryId": 1,
-        	"id": 0
     }]
 
 }
