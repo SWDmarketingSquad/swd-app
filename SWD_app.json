@@ -367,7 +367,7 @@
 		}]
 	}, {
 		"countryId": 1,
-		"categoryId": 1,
+		"categoryId": 0,
 		"title": "Drum Fill Weights (2024)",
 		"subtitle": "",
 		"documents": [{
@@ -376,7 +376,7 @@
 		}]
 	}, {
 		"countryId": 1,
-		"categoryId": 1.5,
+		"categoryId": 1,
 		"title": "Job-Site Certificate",
 		"subtitle": "",
 		"documents": [{
@@ -435,11 +435,11 @@
 	}, {
 		"name": "Drum Fill Weights",
 		"countryId": 1,
-		"id": 1
+		"id": 0
 	}, {
 		"name": "Job-Site Certificate",
 		"countryId": 1,
-		"id": 1.5
+		"id": 1
     }]
 
 }
