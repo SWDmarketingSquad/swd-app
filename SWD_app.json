@@ -376,7 +376,7 @@
 		}]
 	}, {
 		"countryId": 1,
-		"categoryId": 4,
+		"categoryId": 1.5,
 		"title": "Job-Site Certificate",
 		"subtitle": "",
 		"documents": [{
@@ -439,7 +439,7 @@
 	}, {
 		"name": "Job-Site Certificate",
 		"countryId": 1,
-		"id": 4
+		"id": 1.5
     }]
 
 }
