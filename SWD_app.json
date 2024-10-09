@@ -388,7 +388,7 @@
 		}]
 	}, {
 		"countryId": 1,
-		"categoryId": 1.5,
+		"categoryId": 4,
 		"title": "SWD Limited Warranty",
 		"subtitle": "",
 		"documents": [{
@@ -455,7 +455,7 @@
 	}, {
 		"name": "SWD Limited Warranty",
 		"countryId": 1,
-		"id": 1.5
+		"id": 4
     }]
 
 }
