@@ -388,7 +388,7 @@
 		}]
 	}, {
 		"countryId": 1,
-		"categoryId": 4,
+		"categoryId": 1,
 		"title": "SWD Limited Warranty",
 		"subtitle": "",
 		"documents": [{
@@ -449,13 +449,10 @@
 		"countryId": 1,
 		"id": 0
 	}, {
-		"name": "Job-Site Certificate",
+		"name": "Job-Site Certificate & Limited Warranty",
 		"countryId": 1,
 		"id": 1
-	}, {
-		"name": "SWD Limited Warranty",
-		"countryId": 1,
-		"id": 4
+	
     }]
 
 }
