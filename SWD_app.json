@@ -387,6 +387,15 @@
 			"url": "https://swdurethane.com/wp-content/uploads/Job-Site-Certificate.pdf"
 		}]
 	}, {
+		"countryId": 1,
+		"categoryId": 1.5,
+		"title": "SWD Limited Warranty",
+		"subtitle": "",
+		"documents": [{
+			"name": "PDF",
+			"url": "https://swdurethane.com/wp-content/uploads/SWD-Limited-Warranty.pdf"
+		}]
+	}, {
 		"countryId": 2,
 		"categoryId": 3,
 		"title": "Quik-Shield 106 CDN",
@@ -443,6 +452,10 @@
 		"name": "Job-Site Certificate",
 		"countryId": 1,
 		"id": 1
+	}, {
+		"name": "SWD Limited Warranty",
+		"countryId": 1,
+		"id": 1.5
     }]
 
 }
